@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="apacheds-all-1.5.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/apacheds-all-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nlog4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nlog4j-1.2.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-simple-1.0.jar!/" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
